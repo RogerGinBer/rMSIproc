@@ -17,12 +17,10 @@ Depends:
     rMSI (>= 0.9.1)
 Imports:
     Rcpp (>= 0.12.2),
-    gWidgets2 (>= 1.0),
-    RGtk2 (>= 2.20.25),
-    gWidgets2RGtk2 (>= 1.0)
+    gWidgets2 (>= 1.0)
 Suggests:
     ggplot2 (>= 3.0.0),
     gridExtra (>= 2.3)
 LinkingTo: Rcpp
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 Encoding: UTF-8
